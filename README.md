@@ -1,2 +1,3 @@
-# Crud-Angular-nodejs
-CRUD em angular Nodejs Mongoose Multer
+CRUD angular, Nodejs, Mongoose, Multer
+
+Leia o README.md  da API.
